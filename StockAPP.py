@@ -7,7 +7,7 @@ import ta
 
 
 # Alpha Vantage API key
-API_KEY = "76FY8EGY1TS5IX50"
+API_KEY = "Your API_KEY"
 
 # Define function to get stock data and company overview
 def get_stock_data(symbol, exchange):
