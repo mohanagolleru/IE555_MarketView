@@ -27,6 +27,32 @@ Overall, the Market View Application aims to empower users by providing access t
 - TA-Lib : Technical Analysis Library [ https://ta-lib.org/]
 
 ---
+## The Dashboard of the web application looks like
+![Image of Plot](Dashboard.png)
+
+
+**Company Overview:**
+
+ 
+![Image of Plot](Company_Overview.png)
+
+
+**Stock Price Chart:**
+
+The application displays a candlestick chart of the stock's performance. It shows the opening, closing, highest, and lowest prices for each day. Additionally, it includes moving averages (MA) of 35 and 50 periods and volume bars.
+ 
+![Image of Plot](Stock_Price_Chart.png)
+
+**MACD Indicator:**
+
+![Image of Plot](MACD_Indicator.png)
+
+
+**The Relative Strength Index Indicator:**
+
+![Image of Plot](RSI.png)
+
+---
 ## Explanation of the Code
 
 Let's begin by installing necessary Python packages:
@@ -201,38 +227,7 @@ Note: Make sure you have a stable internet connection to access the Alpha Vantag
 
 ---
 
-## Results from your Analysis
 
-**The Dashboard of the web application looks like:**
-
-![Image of Plot](Dashboard.png)
-
-
-**Company Overview:**
-
- The application fetches company overview data, including the company name, industry, analyst target price, book value, P/B ratio, P/E ratio, forward P/E, EV/Revenue, EV/EBITDA, beta, 52-week high and low, EPS, and PEG ratio. The data is displayed as a table.
- 
-![Image of Plot](Company_Overview.png)
-
-
-**Stock Price Chart:**
-
-The application displays a candlestick chart of the stock's performance. It shows the opening, closing, highest, and lowest prices for each day. Additionally, it includes moving averages (MA) of 35 and 50 periods and volume bars.
- 
-![Image of Plot](Stock_Price_Chart.png)
-
-
-**MACD Indicator:**
-
-If the "Show MACD" checkbox is selected, the application generates a plot of the Moving Average Convergence Divergence (MACD) indicator. The plot shows the MACD line, signal line, and a horizontal line at zero. The MACD is a trend-following momentum indicator that helps identify potential buying and selling opportunities.
- 
-![Image of Plot](MACD_Indicator.png)
-
-
-**The Relative Strength Index Indicator:**
-
-
-![Image of Plot](RSI.png)
 
 
 
