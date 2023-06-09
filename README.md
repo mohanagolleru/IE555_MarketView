@@ -30,12 +30,9 @@ Overall, the Market View Application aims to empower users by providing access t
 ## The Dashboard of the web application looks like
 ![Image of Plot](Dashboard.png)
 
-
 **Company Overview:**
 
- 
 ![Image of Plot](Company_Overview.png)
-
 
 **Stock Price Chart:**
 
@@ -45,10 +42,12 @@ The application displays a candlestick chart of the stock's performance. It show
 
 **MACD Indicator:**
 
+
 ![Image of Plot](MACD_Indicator.png)
 
 
 **The Relative Strength Index Indicator:**
+
 
 ![Image of Plot](RSI.png)
 
