@@ -29,16 +29,7 @@ Overall, the Market View Application aims to empower users by providing access t
 - mplfinance [ https://pypi.org/project/mplfinance/]
 - Streamlit [ https://docs.streamlit.io/library/api-reference]
 - TA-Lib : Technical Analysis Library [ https://ta-lib.org/]
----
 
-## Requirements
-- Alpha Vantage API
-- streamlit==1.22.0
-- pandas==1.4.4
-- mplfinance==0.12.9b7
-- matplotlib==3.5.2
-- requests==2.28.1
-- ta==0.10.2
 ---
 ## Explanation of the Code
 
