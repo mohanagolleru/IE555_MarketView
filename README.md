@@ -1,7 +1,7 @@
 #  Market View: Navigating Stocks with Confidence and Clarity.
 ---
 # Author: 
-**Mohana Shiva Sai Yashodhar Golleru** *(mohanasi@buffalo.edu)* 
+**Mohana Shiva Sai Yasodhar Golleru** *(mohanasi@buffalo.edu)* 
 
 ## Aim of the Project
 
