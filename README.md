@@ -5,10 +5,6 @@
  - **Mohana Shiva Sai Yashodhar Golleru** *(mohanasi@buffalo.edu)*
 --- 
 
-# Introduction
-
-The Market View Application is a user-friendly tool that provides easy access to stock market data and facilitates analysis of individual stocks. Powered by the Alpha Vantage API, users can fetch real-time stock prices and company overview information.The application offers a seamless interface where users can enter a stock symbol and explore detailed price data, visualize technical indicators, and access key company metrics.
-
 ## Aim of the Project
 
 Our Data applications provide users with a user-friendly tool for accessing and analyzing stock market data. The project aims to achieve the following:
