@@ -217,24 +217,22 @@ Note: Make sure you have a stable internet connection to access the Alpha Vantag
 
 **Stock Price Chart:**
 
- The application displays a candlestick chart of the stock's performance. It shows the opening, closing, highest, and lowest prices for each day. Additionally, it includes moving averages (MA) of 35 and 50 periods and volume bars.
+The application displays a candlestick chart of the stock's performance. It shows the opening, closing, highest, and lowest prices for each day. Additionally, it includes moving averages (MA) of 35 and 50 periods and volume bars.
  
 ![Image of Plot](Stock_Price_Chart.png)
 
 
 **MACD Indicator:**
 
- If the "Show MACD" checkbox is selected, the application generates a plot of the Moving Average Convergence Divergence (MACD) indicator. The plot shows the MACD line, signal line, and a horizontal line at zero. The MACD is a trend-following momentum indicator that helps identify potential buying and selling opportunities.
+If the "Show MACD" checkbox is selected, the application generates a plot of the Moving Average Convergence Divergence (MACD) indicator. The plot shows the MACD line, signal line, and a horizontal line at zero. The MACD is a trend-following momentum indicator that helps identify potential buying and selling opportunities.
  
 ![Image of Plot](MACD_Indicator.png)
 
 
 **The Relative Strength Index Indicator:**
 
- If the "Show RSI" checkbox is selected, the application generates a plot of the Relative Strength Index (RSI) indicator. The plot displays the RSI values over time, with horizontal lines at 30 (oversold) and 70 (overbought) levels. The RSI is a momentum oscillator that measures the speed and change of price movements, indicating potential reversal points.
- 
+
 ![Image of Plot](RSI.png)
 
 
-These visualizations and data provide insights into the stock's performance, technical indicators, and company overview, allowing users to make informed decisions or conduct further analysis.
-Note: The results and analysis may vary depending on the stock symbol entered and the availability of data from the Alpha Vantage API.
+
