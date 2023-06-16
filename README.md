@@ -5,7 +5,7 @@
 
 ## Aim of the Project
 
-Our Data applications provide users with a user-friendly tool for accessing and analyzing stock market data. The project aims to achieve the following:
+This Data applications provide users with a user-friendly tool for accessing and analyzing stock market data. The project aims to achieve the following:
  >1.Data Retrieval: Retrieve daily stock price data and company overview information from the Alpha Vantage API.
 
  >2.Visualization: Display stock price data using candlestick charts and provide options to visualize technical indicators like MACD and RSI.
