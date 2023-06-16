@@ -214,7 +214,7 @@ def main():
 
 >5. After the packages are installed, Run the Streamlit app by executing the following command: ```streamlit run StockAPP.py```
 
->6. This will start the Streamlit development server and provide a local URL. Look for a line in the terminal that says:```You can now view your Streamlit app in your browser.Local URL: http://localhost:8501 Network URL: http://10.84.101.87:8501```
+>6. This will start the Streamlit development server and provide a local URL. Look for a line in the terminal that says:```You can now view your Streamlit app in your browser.Local URL: http://localhost:8401 Network URL: http://10.84.101.82:8501```
 
 >7. After getting the prompt hold the CTRL key and click on the link, This will open the web application on your default browser
 
